@@ -1,0 +1,5 @@
+Here we will be demoing with just plain text instead of actual
+code, since the main focus 
+of this article is 
+on Git and not on any 
+specific programming language.
